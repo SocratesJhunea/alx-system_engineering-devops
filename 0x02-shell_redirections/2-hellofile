@@ -1,2 +1,2 @@
 #!/bin/bash
-vdir etc/passwd
+ls -l -b etc/passwd
