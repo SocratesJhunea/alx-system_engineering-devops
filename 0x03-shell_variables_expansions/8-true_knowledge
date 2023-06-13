@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="128" | cat -e
+export TRUEKNOWLEDGE="128" | echo $ '-e'
