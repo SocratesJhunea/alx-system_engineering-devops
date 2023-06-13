@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "$TEXT" | tr '\200-\377\000-\177' '\000-\177\200-\377'
+echo "$TEXT" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
