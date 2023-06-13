@@ -1,0 +1,2 @@
+#!/bin/bash
+print(chr(97 + i) + chr(97 + j))
